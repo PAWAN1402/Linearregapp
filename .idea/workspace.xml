@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75798508-16c3-4655-962c-a36fff8d39f3" name="Default Changelist" comment="" />
+    <list default="true" id="75798508-16c3-4655-962c-a36fff8d39f3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HowToDeveloyAppOnHeroku" beforeDir="false" afterPath="$PROJECT_DIR$/HowToDeveloyAppOnHeroku" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +32,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../reviewScrapper-20210220T171716Z-001/reviewScrapper" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.application">
     <configuration name="application" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LinearRegressionApp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,8 +77,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
         <item itemvalue="Python.application" />
+        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
